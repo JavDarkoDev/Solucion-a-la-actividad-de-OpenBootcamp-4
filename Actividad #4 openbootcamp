@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Documento</title>
+    </head>
+    <body>
+        <div>
+            <h1>Aprendiendo a utilizar imágenes</h1>    
+            <img src="https://www.global-esports.news/wp-content/uploads/2022/01/Valorant-Ranking-distribution.jpg" alt="Valorant-logo" width="700px" height="400px">
+        </div>
+
+        <div>
+            <h1>Aprendiendo a utilizar los vídeos</h1>
+            <video width="300px" height="300px" controls muted autoplay loop>
+                <source src="Video.mp4" type="video/mp4" />
+            </video>
+        </div>
+
+        <div>
+            <h1>Aprendiendo a utlizar los audios</h1>
+            <audio controls autoplay loop>
+                <source src="Coldplay Viva la Vida.webm" type="audio/mp3">
+            </audio>
+        </div>
+    </body>
+</html>
